@@ -38,7 +38,7 @@ Grandes telas: acima de 1200px
 
 @media screen and (min-width: 992px) {
     body {
-        background-image: linear-gradient(to top, #F2D1B3, #D98566); /* DEKSTOP */
+        background-image: linear-gradient(to top,  #BABCBF, #F2CCB6, #A67468);; /* DEKSTOP */
     }
 
 

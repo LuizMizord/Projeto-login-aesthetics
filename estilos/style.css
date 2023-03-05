@@ -72,9 +72,9 @@ form > div.campo {
     border: 2px solid #f0a661;
     width: 100%;
     display: block;
-    height: 42px;
+    height: 45px;
     border-radius: 8px;
-    margin: 5px 0px;
+    margin: 7px 0px;
 }
 
 div.campo > label {
@@ -97,7 +97,7 @@ div.campo > input {
     border: 0px;
     border-radius: 8px;
     padding: 4px;
-    transform: translateY(-10.7px);
+    transform: translateY(-10px);
 }
 
 div.campo > input:focus-within {
